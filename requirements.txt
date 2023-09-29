@@ -8,3 +8,4 @@ torchvision
 imageio
 nbgitpuller
 nbviewer
+gdown
