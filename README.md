@@ -24,4 +24,8 @@ Slides for the lectures can be found at [Blackboard](https://blackboard.kaust.ed
     * Python basics: [bioe394e_unit1_lecture4_coding_basics.ipynb](https://github.com/rhenaog/bioe394e/blob/main/bioe394e_unit1_lecture4_coding_basics.ipynb)
     * Pytorch basics (MLP and MNIST): [bioe394e_unit1_lecture4_intro_pytorch.ipynb](https://github.com/rhenaog/bioe394e/blob/main/bioe394e_unit1_lecture4_intro_pytorch.ipynb)
 * Unit 3:
-    * Implementation of Convolutional Neral Networks (CCNs): [bioe394e_unit3_lecture10_ham10000.ipynb](https://github.com/rhenaog/bioe394e/blob/main/bioe394e_unit3_lecture10_ham10000.ipynb)
+    * Implementation of Convolutional Neural Networks (CCNs): [bioe394e_unit3_lecture10_ham10000.ipynb](https://github.com/rhenaog/bioe394e/blob/main/bioe394e_unit3_lecture10_ham10000.ipynb)
+* Unit 4:
+    * Implementing a Variational Autoencoder (VAE): [bioe394e_unit3_lecture17_ae.ipynb](https://github.com/rhenaog/bioe394e/blob/main/bioe394e_unit3_lecture17_ae.ipynb)
+    * Implementing a Generative Adversarial Network (GAN): [bioe394e_unit3_lecture17_gan.ipynb](https://github.com/rhenaog/bioe394e/blob/main/bioe394e_unit3_lecture17_gan.ipynb)
+
