@@ -28,4 +28,6 @@ Slides for the lectures can be found at [Blackboard](https://blackboard.kaust.ed
 * Unit 4:
     * Implementing a Variational Autoencoder (VAE): [bioe394e_unit4_lecture17_ae.ipynb](https://github.com/rhenaog/bioe394e/blob/main/bioe394e_unit4_lecture17_ae.ipynb)
     * Implementing a Generative Adversarial Network (GAN): [bioe394e_unit4_lecture17_gan.ipynb](https://github.com/rhenaog/bioe394e/blob/main/bioe394e_unit4_lecture17_gan.ipynb)
+* Unit 5:
+    * Implementing Embeddings and Recurrent Neural Networks (RNNs): [bioe394e_unit5_lecture21.ipynb](https://github.com/rhenaog/bioe394e/blob/main/bioe394e_unit5_lecture21.ipynb)
 
