@@ -30,4 +30,6 @@ Slides for the lectures can be found at [Blackboard](https://blackboard.kaust.ed
     * Implementing a Generative Adversarial Network (GAN): [bioe394e_unit4_lecture17_gan.ipynb](https://github.com/rhenaog/bioe394e/blob/main/bioe394e_unit4_lecture17_gan.ipynb)
 * Unit 5:
     * Implementing Embeddings and Recurrent Neural Networks (RNNs): [bioe394e_unit5_lecture21.ipynb](https://github.com/rhenaog/bioe394e/blob/main/bioe394e_unit5_lecture21.ipynb)
+* Unit 6:
+    * Implementing Transformers with HuggingFace: [bioe394e_unit6_lecture26.ipynb](https://github.com/rhenaog/bioe394e/blob/main/bioe394e_unit6_lecture26.ipynb)    
 
